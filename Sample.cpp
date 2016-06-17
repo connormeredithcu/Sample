@@ -4,7 +4,7 @@
 using namespace std;
 
 int main () {
-	std::cout << "Content-type:text/html\r\n\r\n";
+	std::cout << "Content-type: text/html\r\n\r\n";
 	std::cout << "<html>\n";
     std::cout << "<head>\n";
     std::cout << "<title>Hello World - First CGI Program</title>\n";
